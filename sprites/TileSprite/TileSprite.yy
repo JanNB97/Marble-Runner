@@ -32,8 +32,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Marble-Runner_2",
-    "path": "Marble-Runner_2.yyp",
+    "name": "Marble_runner_2",
+    "path": "Marble_runner_2.yyp",
   },
   "preMultiplyAlpha": false,
   "sequence": {
